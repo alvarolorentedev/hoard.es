@@ -1,83 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="52.916668mm"
-   height="50.084061mm"
-   viewBox="0 0 52.916668 50.084061"
-   version="1.1"
-   id="svg248"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="barklarm.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:sketchjs="https://sketch.io/dtd/">
-  <sodipodi:namedview
-     id="namedview250"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="true"
-     inkscape:zoom="0.54866744"
-     inkscape:cx="494.83526"
-     inkscape:cy="568.65047"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid383"
-       originx="-47.403002"
-       originy="-93.591445" />
-  </sodipodi:namedview>
-  <defs
-     id="defs245" />
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-47.403,-93.591442)">
-    <g
-       sketchjs:tool="clipart"
-       transform="matrix(0.6240173,0,0,0.6240173,42.660469,86.040833)"
-       id="g69">
-      <g
-         sketchjs:uid="1"
-         style="fill:#913fbb;fill-opacity:1"
-         id="g67">
-        <path
-           d="m 70.1,12.1 v 8.1 H 29.9 V 12.1 C 16.6,19.3 7.6,33.3 7.6,49.4 c 0,15.5 8.3,29.1 20.8,36.5 L 50,64.3 71.6,85.9 C 84,78.5 92.4,64.9 92.4,49.4 92.4,33.3 83.4,19.3 70.1,12.1 Z M 22.7,54.7 c -2.1,0 -3.9,-1.7 -3.9,-3.9 0,-2.1 1.7,-3.9 3.9,-3.9 2.2,0 3.9,1.7 3.9,3.9 -0.1,2.2 -1.8,3.9 -3.9,3.9 z M 50,64.2 39.1,53.4 H 60.8 Z M 75.9,54.7 C 73.8,54.7 72,53 72,50.8 c 0,-2.1 1.7,-3.9 3.9,-3.9 2.1,0 3.9,1.7 3.9,3.9 0,2.2 -1.7,3.9 -3.9,3.9 z"
-           sketchjs:uid="2"
-           id="path63" />
-        <path
-           d="m 38.4,80.7 c 3.5,1.8 7.4,2.9 11.6,2.9 4.2,0 8.1,-1 11.6,-2.9 L 50,69.1 Z"
-           sketchjs:uid="3"
-           style="fill:#ff0300"
-           id="path65" />
-      </g>
-    </g>
-    <g
-       sketchjs:tool="clipart"
-       transform="matrix(-9.5343132e-4,0.72070615,-0.72070615,-9.5343132e-4,855.40508,777.61904)"
-       id="g61">
-      <path
-         d="m -882.97889,1071.4569 c -0.4,-0.5 -1.2,-0.6 -1.7,-0.1 l -2,1.8 c -0.5,0.4 -0.5,1.1 -0.1,1.6 2.3,2.9 3.6,6.5 3.6,10.4 0,3.9 -1.4,7.6 -3.6,10.4 -0.4,0.5 -0.3,1.2 0.1,1.6 l 2,1.8 c 0.5,0.4 1.3,0.4 1.7,-0.1 3,-3.7 4.8,-8.5 4.8,-13.7 0,-5.2 -1.8,-9.9 -4.8,-13.7 z"
-         sketchjs:uid="3"
-         style="fill:#ff0300;fill-opacity:1"
-         id="path51" />
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 2022.3.11.0 https://api.sketch.io -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" sketchjs:metadata="eyJuYW1lIjoiRHJhd2luZy0xLnNrZXRjaHBhZCIsInN1cmZhY2UiOnsibWV0aG9kIjoiZmlsbCIsImJsZW5kIjoibm9ybWFsIiwiZW5hYmxlZCI6dHJ1ZSwib3BhY2l0eSI6MSwidHlwZSI6ImNvbG9yIiwiY29sb3IiOiIjZmZmZmZmIn0sImNsaXBQYXRoIjp7ImVuYWJsZWQiOnRydWV9LCJkZXNjcmlwdGlvbiI6Im1hZGUgd2l0aCBodHRwOi8vbG9nb21ha3IuY29tIiwibWV0YWRhdGEiOnsiZ3JpZE92ZXJsYXlJZCI6ImdyaWRPdmVybGF5In0sImV4cG9ydERQSSI6NzIsImV4cG9ydEZvcm1hdCI6InBuZyIsImV4cG9ydFF1YWxpdHkiOjAuOTUsInVuaXRzIjoicHgiLCJ3aWR0aCI6NjIxLCJoZWlnaHQiOjIyMiwicGFnZXMiOlt7IndpZHRoIjo2MjEsImhlaWdodCI6MjIyfV0sInV1aWQiOiI1NzM4ZDQ4NC1lMDlhLTQ2YzgtYTY0YS1hOThhMGQ5ZGNhNjQifQ==" width="222" height="222" viewBox="0 0 222 222">
+<defs>
+	<pattern id="dna_4146799760" patternUnits="userSpaceOnUse" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAOklEQVQ4T2O8fv36AQYGBhCmCmC8fv16g6amZgNVTGNgYBg1kPKQHA3D0TAkIwRGkw0ZgYamZQSGIQApY1AaL/I1PgAAAABJRU5ErkJggg==" x="0" y="0" width="20" height="20">
+	</pattern>
+</defs>
+<path style="fill: url(#dna_4146799760); mix-blend-mode: source-over; fill-opacity: 1; vector-effect: non-scaling-stroke;" sketchjs:tool="rectangle" d="M0 0 L621 0 621 222 0 222 z"/>
+<g style="mix-blend-mode: source-over;" sketchjs:tool="clipart" transform="matrix(1255.8869701726844,0,0,1255.8869701726844,10,10.316893203350403)">
+	<g sketchjs:uid="1" style="fill: #000000; fill-opacity: 1;">
+		<path d="M0 0.08c0,0.071 0.086,0.107 0.136,0.056 0.031,-0.031 0.031,-0.081 0,-0.113 -0.05,-0.05 -0.136,-0.014 -0.136,0.057z" sketchjs:uid="2"/>
+	</g>
+</g>
+<g style="mix-blend-mode: source-over;" sketchjs:tool="clipart" transform="matrix(1.106582070750508,0,0,1.1065820707505079,21.70471060569573,22.253925504746448)">
+	<ellipse cx="66.8" cy="115.3" rx="6.9" ry="7" sketchjs:uid="1" style="fill: #00e80c; fill-opacity: 1;"/>
+	<ellipse cx="93.2" cy="115.3" rx="6.9" ry="7" sketchjs:uid="2" style="fill: #00e80c; fill-opacity: 1;"/>
+	<path d="M102.4 80.6c-6.3-6.3-9.7-14.6-9.7-23.4V26.6h7.6v30.6c0 6.8 2.7 13.2 7.5 18 5.2 5.2 12.5 7.9 19.9 7.4 12.9-.9 23.8-12.9 23.8-26.3 0-8.7-3.2-17-9-23.3-.3-.4-.7-.7-1-1.1C126.6 16.1 104.8 7 81.8 7h-3.7c-22.9 0-44.7 9.1-59.7 24.9l-.4.5C11.8 39 8.4 47.8 8.4 57.2c0 6.8 2.7 13.2 7.5 18 4.8 4.8 11.3 7.5 18.1 7.5 13.9 0 25.6-12.1 25.6-26.4V26.6h7.6v29.7c0 18.4-15.2 34-33.2 34h-.1c-8.3 0-16.1-3-22.2-8.5v3.4c0 18.1 7.1 35.1 19.9 48C44.7 145.9 61.8 153 80 153s35.3-7.1 48.2-19.9c12.9-12.8 19.9-29.8 19.9-48v-4c-5.4 5.2-12.4 8.6-19.9 9-9.6.8-19-2.7-25.8-9.5zM80 142.1c-14.9 0-27-12-27-26.8s12.1-26.8 27-26.8 27 12 27 26.8-12.1 26.8-27 26.8z" sketchjs:uid="3" style="fill: #00e80c; fill-opacity: 1;"/>
+</g>
 </svg>
