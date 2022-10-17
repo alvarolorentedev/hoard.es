@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhoard_es=self.webpackChunkhoard_es||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Post","permalink":"/blog/2021/05/11/first-alpha-release"}]}')}}]);
