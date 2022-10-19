@@ -8,32 +8,7 @@ The first step to be able to accumulate wealth is to know where your money is go
 
 We can classify movements in our wealth in 2 types of transactions:
 
-* Income: all the money that comes in.
-* Expenses: all the money that we use for our day to day.
+* Income: Money that comes into our wealth.
+* Expenses: Money that goes out of our wealth.
 
-<table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-    </tbody>
-</table>
+This is the first level of classification. Nevertheless, this is too generic, specially when we speak about expenses, to know where is the money going. For this, let's drill down in the expenses.
