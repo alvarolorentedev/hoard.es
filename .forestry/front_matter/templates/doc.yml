@@ -5,5 +5,3 @@ fields:
 - type: number
   name: sidebar_position
   label: sidebar_position
-pages:
-- docs/1-where-does-wealth-go.md
