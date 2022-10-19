@@ -5,3 +5,5 @@ fields:
 - type: number
   name: sidebar_position
   label: sidebar_position
+pages:
+- docs/no-debt-policy.md
