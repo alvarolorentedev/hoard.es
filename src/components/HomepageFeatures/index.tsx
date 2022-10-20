@@ -9,6 +9,33 @@ type FeatureItem = {
 };
 
 const FeatureList: FeatureItem[] = [
+  {
+    title: 'Community Driven',
+    Svg: require('@site/static/img/undraw_community.svg').default,
+    description: (
+      <>
+        Community driven knowledge base. We wont share anything we dont use or do ourselves.
+      </>
+    ),
+  },
+  {
+    title: 'For Everyone',
+    Svg: require('@site/static/img/undraw_children.svg').default,
+    description: (
+      <>
+        We will explain things in a simple way.
+      </>
+    ),
+  },
+  {
+    title: 'Not A Get Rich Scheme',
+    Svg: require('@site/static/img/undraw_savings.svg').default,
+    description: (
+      <>
+        We want to share ideas not to try to sell people a fake get rich scheme that will make them lose money.
+      </>
+    ),
+  },
 ];
 
 function Feature({title, Svg, description}: FeatureItem) {

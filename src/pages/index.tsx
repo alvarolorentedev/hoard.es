@@ -26,6 +26,7 @@ export default function Home(): JSX.Element {
       description={`${siteConfig.tagline}`}>
       <HomepageHeader />
       <main>
+        <HomepageFeatures />
       </main>
     </Layout>
   );
